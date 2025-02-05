@@ -1,4 +1,3 @@
-import './App.css';
 import Home from './Components/Images/Pages/Home';
 
 function App() {
